@@ -1,6 +1,6 @@
 import qrcode
 import image #3demo
-
+## this is a example
 qr = qrcode.QRCode(
     version = 15,
     box_size = 10,
