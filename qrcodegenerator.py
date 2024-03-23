@@ -1,5 +1,5 @@
 import qrcode
-import image
+import image #3demo
 
 qr = qrcode.QRCode(
     version = 15,
